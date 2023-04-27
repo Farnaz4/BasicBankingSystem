@@ -45,7 +45,7 @@ class Bank(User):
 
 
 johan = Bank("Johan", 20, "Male")
-print(johan.age)
+print(johan.name)
 johan.deposit(1000)
 johan.withdraw(200)
 johan.show_details()

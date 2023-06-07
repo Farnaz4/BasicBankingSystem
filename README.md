@@ -1,2 +1,2 @@
 # BasicBankingSystem 
-This was created using basic concepts of oop with python 
+This was created using basic concepts of OOP with Python 
